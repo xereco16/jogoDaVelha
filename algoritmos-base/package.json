@@ -1,0 +1,19 @@
+{
+  "name": "algoritmos-base",
+  "version": "1.0.0",
+  "description": "Projeto base para disciplina de algoritmos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algoritmos",
+    "javacript",
+    "node"
+  ],
+  "author": "Marcelo Afanaci Junior",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
