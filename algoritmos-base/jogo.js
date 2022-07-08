@@ -4,6 +4,9 @@ const {
 } = require('./utils/utils');
 
 
+// AQUI ESTA MINHA TENTATIVA
+
+
 const tabuleiro = "_|_|_\n_|_|_\n | | ";
 const valoresTabuleiro = "0|1|2\n3|4|5\n6|7|8";
 
